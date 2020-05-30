@@ -4,6 +4,6 @@
 
 Може да влезете в нашият Discord сървър
 
-#Discord
+## Discord
 [Влезте в Discord сървърани](https://discord.gg/24SgpCK)
 
