@@ -1,1 +1,1 @@
-<link rel="favicon.png" type="site logo/favicon.png" href="favicon.ico">
+ <link rel="favicon.png" sizes="144x144" href="{{ site.baseurl }}site logo/favicon.png">
