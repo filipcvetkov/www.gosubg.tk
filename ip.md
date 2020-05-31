@@ -1,4 +1,4 @@
 ## Здравейте IP: Очаквайте скоро 
 
 
-[Discord] (https://discord.gg/24SgpCK)
+[Влезте в Discord сървърани](https://discord.gg/24SgpCK)
