@@ -8,4 +8,5 @@
 [Влезте в Discord сървърани](https://discord.gg/24SgpCK)
 
 
-❤️
+## IP 
+[IP](https://www.gosubg.tk/ip)
